@@ -1,10 +1,791 @@
- [{
+ [
+        {
+         "Column1": 132,
+         "A": "14 Mar 2024",
+         "C": "PIK AVENUE MALL, Jakarta Utara",
+         "D": "Jakarta Utara",
+         "E": "HIMAWARI JAPAN FEST 2024",
+         "F": "12-01-2024 18:47",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162288167788836\/"
+        },
+        {
+         "Column1": 133,
+         "A": "15 Mar 2024",
+         "C": "PIK AVENUE MALL, Jakarta Utara",
+         "D": "Jakarta Utara",
+         "E": "HIMAWARI JAPAN FEST 2024",
+         "F": "12-01-2024 18:47",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162288167788836\/"
+        },
+        {
+         "Column1": 134,
+         "A": "16 Mar 2024",
+         "C": "PIK AVENUE MALL, Jakarta Utara",
+         "D": "Jakarta Utara",
+         "E": "HIMAWARI JAPAN FEST 2024",
+         "F": "12-01-2024 18:47",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162288167788836\/"
+        },
+        {
          "Column1": 135,
-         "A": "18 Mar 2024",
+         "A": "17 Mar 2024",
          "C": "PIK AVENUE MALL, Jakarta Utara",
          "D": "Jakarta Utara",
          "E": "HIMAWARI JAPAN FEST 2024",
          "F": "22-01-2024 10:20",
          "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162288167788836\/"
+        },
+        {
+         "Column1": 136,
+         "A": "20 Apr 2024",
+         "C": "Convention Hall, Tunjungan Plaza 3, Surabaya",
+         "D": "Surabaya",
+         "E": "Chibicon x ICGP 2024",
+         "F": "07-01-2024 21:23",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281380803836\/"
+        },
+        {
+         "Column1": 137,
+         "A": "20 Apr 2024",
+         "C": "SPARK (Senayan Park), Jakarta Pusat",
+         "D": "Jakarta Pusat",
+         "E": "MUKASHI VOL.3 - BACK TO SPARK",
+         "F": "10-02-2024 21:32",
+         "G": "https:\/\/www.instagram.com\/mukashifestival.id\/"
+        },
+        {
+         "Column1": 138,
+         "A": "21 Apr 2024",
+         "B": "10:00",
+         "C": "Mangga Dua Square",
+         "D": "Jakarta Utara",
+         "E": "Jakarta Idol Festival ~ 2nd Anniversary Mangdu JPop Zone~",
+         "F": "17-01-2024 19:08",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280397208836\/"
+        },
+        {
+         "Column1": 139,
+         "A": "21 Apr 2024",
+         "C": "Multifunction Sport Hall Balai Jagong KUDUS",
+         "D": "Kudus",
+         "E": "BUBU FEST",
+         "F": "07-01-2024 20:21",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162279643948836\/"
+        },
+        {
+         "Column1": 140,
+         "A": "21 Apr 2024",
+         "C": "Convention Hall, Tunjungan Plaza 3, Surabaya",
+         "D": "Surabaya",
+         "E": "Chibicon x ICGP 2024",
+         "F": "07-01-2024 21:23",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281380803836\/"
+        },
+        {
+         "Column1": 141,
+         "A": "21 Apr 2024",
+         "C": "SPARK (Senayan Park), Jakarta Pusat",
+         "D": "Jakarta Pusat",
+         "E": "MUKASHI VOL.3 - BACK TO SPARK",
+         "F": "10-02-2024 21:33",
+         "G": "https:\/\/www.instagram.com\/mukashifestival.id\/"
+        },
+        {
+         "Column1": 142,
+         "A": "25 Apr 2024",
+         "C": "Emporium Mall Pluit",
+         "D": "Jakarta Utara",
+         "E": "JAPAN HEROES UNITED",
+         "F": "07-09-2023 19:11",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 143,
+         "A": "25 Apr 2024",
+         "C": "Emporium Mall Pluit",
+         "D": "Jakarta Utara",
+         "E": "JAPAN HEROES UNITED",
+         "F": "13-01-2024 23:00",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 144,
+         "A": "26 Apr 2024",
+         "C": "Emporium Mall Pluit",
+         "D": "Jakarta Utara",
+         "E": "JAPAN HEROES UNITED",
+         "F": "07-09-2023 19:11",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 145,
+         "A": "27 Apr 2024",
+         "C": "Emporium Mall Pluit",
+         "D": "Jakarta Utara",
+         "E": "JAPAN HEROES UNITED",
+         "F": "07-09-2023 19:11",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 146,
+         "A": "28 Apr 2024",
+         "C": "Emporium Mall Pluit",
+         "D": "Jakarta Utara",
+         "E": "JAPAN HEROES UNITED",
+         "F": "07-09-2023 19:11",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 147,
+         "A": "03 Mei 2024",
+         "C": "Jakarta Convention Center",
+         "D": "Jakarta Pusat",
+         "E": "Anime Festival Asia 2024 AFAID 24",
+         "F": "26-11-2023 10:04",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162220884583836\/"
+        },
+        {
+         "Column1": 148,
+         "A": "04 Mei 2024",
+         "C": "Jakarta Convention Center",
+         "D": "Jakarta Pusat",
+         "E": "Anime Festival Asia 2024 AFAID 24",
+         "F": "26-11-2023 10:04",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162220884583836\/"
+        },
+        {
+         "Column1": 149,
+         "A": "04 Mei 2024",
+         "C": "Jogja Expo Center",
+         "D": "Yogyakarta",
+         "E": "Comic Paradise (Comipara) 2",
+         "F": "07-01-2024 20:14",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162278966583836\/"
+        },
+        {
+         "Column1": 150,
+         "A": "05 Mei 2024",
+         "C": "Jakarta Convention Center",
+         "D": "Jakarta Pusat",
+         "E": "Anime Festival Asia 2024 AFAID 24",
+         "F": "26-11-2023 10:04",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162220884583836\/"
+        },
+        {
+         "Column1": 151,
+         "A": "05 Mei 2024",
+         "C": "Jogja Expo Center",
+         "D": "Yogyakarta",
+         "E": "Comic Paradise (Comipara) 2",
+         "F": "07-01-2024 20:15",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162278966583836\/"
+        },
+        {
+         "Column1": 152,
+         "A": "09 Mei 2024",
+         "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
+         "D": "Jakarta Utara",
+         "E": "COSUFEST",
+         "F": "26-01-2024 15:26",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 153,
+         "A": "10 Mei 2024",
+         "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
+         "D": "Jakarta Utara",
+         "E": "COSUFEST",
+         "F": "26-01-2024 15:26",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 154,
+         "A": "11 Mei 2024",
+         "C": "Hall 8,9,10 Indonesia Convention Exhibition, BSD ",
+         "D": "Tangerang",
+         "E": "Comic Frontier 18 (CF 18) Comifuro 18",
+         "F": "18-12-2023 20:02",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162250900713836\/"
+        },
+        {
+         "Column1": 155,
+         "A": "11 Mei 2024",
+         "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
+         "D": "Jakarta Utara",
+         "E": "COSUFEST",
+         "F": "26-01-2024 15:26",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 156,
+         "A": "12 Mei 2024",
+         "C": "Hall 8,9,10 Indonesia Convention Exhibition, BSD ",
+         "D": "Tangerang",
+         "E": "Comic Frontier 18 (CF 18) Comifuro 18",
+         "F": "18-12-2023 20:02",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162250900713836\/"
+        },
+        {
+         "Column1": 157,
+         "A": "12 Mei 2024",
+         "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
+         "D": "Jakarta Utara",
+         "E": "COSUFEST",
+         "F": "26-01-2024 15:26",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 158,
+         "A": "24 Mei 2024",
+         "C": "Neo Soho (Central Park)",
+         "D": "Jakarta Barat",
+         "E": "TOY-FANATIC VOL.6",
+         "F": "07-09-2023 19:11",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 159,
+         "A": "24 Mei 2024",
+         "C": "Fx Sudirman",
+         "D": "Jakarta Pusat",
+         "E": "Fx Japan Rock & Idol Festival 0.3",
+         "F": "20-01-2024 00:34",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162296749983836\/"
+        },
+        {
+         "Column1": 160,
+         "A": "25 Mei 2024",
+         "C": "UNNES (Universitas Negeri Semarang) (TBA)",
+         "D": "Semarang",
+         "E": "Nihon Matsuri",
+         "F": "11-02-2024 10:15",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162287542358836\/"
+        },
+        {
+         "Column1": 161,
+         "A": "25 Mei 2024",
+         "C": "Neo Soho (Central Park)",
+         "D": "Jakarta Barat",
+         "E": "TOY-FANATIC VOL.6",
+         "F": "07-09-2023 19:12",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 162,
+         "A": "25 Mei 2024",
+         "C": "Fx Sudirman",
+         "D": "Jakarta Pusat",
+         "E": "Fx Japan Rock & Idol Festival 0.3",
+         "F": "20-01-2024 00:34",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162296749983836\/"
+        },
+        {
+         "Column1": 163,
+         "A": "26 Mei 2024",
+         "C": "Neo Soho (Central Park)",
+         "D": "Jakarta Barat",
+         "E": "TOY-FANATIC VOL.6",
+         "F": "07-09-2023 19:12",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 164,
+         "A": "26 Mei 2024",
+         "C": "Fx Sudirman Mall, Jakarta",
+         "D": "Jakarta Pusat",
+         "E": "Fx Japan Rock & Idol Festival 0.3",
+         "F": "02-02-2024 09:01",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162296749983836\/"
+        },
+        {
+         "Column1": 165,
+         "A": "02 Jun 2024",
+         "C": "Dumai (TBA)",
+         "D": "Dumai",
+         "E": "CHIHEISEN COMMUNITY 1ST ANNIVERSARY",
+         "F": "09-01-2024 01:05",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162283408558836\/"
+        },
+        {
+         "Column1": 166,
+         "A": "08 Jun 2024",
+         "C": "Terminal B Adisutjipto, Yogyakarta",
+         "D": "Yogyakarta",
+         "E": "[Creafor Market] [Circle Event] PARIPICO",
+         "F": "13-01-2024 22:45",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162290070043836\/"
+        },
+        {
+         "Column1": 167,
+         "A": "08 Jun 2024",
+         "C": "Balai Prajurit Expo",
+         "D": "Jakarta Selatan",
+         "E": "LAND OF TOYS",
+         "F": "26-01-2024 15:27",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 168,
+         "A": "09 Jun 2024",
+         "C": "Terminal B Adisutjipto, Yogyakarta",
+         "D": "Yogyakarta",
+         "E": "[Creafor Market] [Circle Event] PARIPICO",
+         "F": "13-01-2024 22:46",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162290070043836\/"
+        },
+        {
+         "Column1": 169,
+         "A": "09 Jun 2024",
+         "C": "Balai Prajurit Expo",
+         "D": "Jakarta Selatan",
+         "E": "LAND OF TOYS",
+         "F": "26-01-2024 15:27",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 170,
+         "A": "29 Jun 2024",
+         "C": "Kota Kertabumi, Karawang ",
+         "D": "Karawang",
+         "E": "Karawang Weabo Fest",
+         "F": "13-01-2024 15:51",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280204833836\/"
+        },
+        {
+         "Column1": 171,
+         "A": "30 Jun 2024",
+         "C": "Karawang, (TBA)",
+         "D": "Karawang",
+         "E": "Karawang Weabo Fest",
+         "F": "07-01-2024 20:43",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280204833836\/"
+        },
+        {
+         "Column1": 172,
+         "A": "20 Jul 2024",
+         "C": "Istora Gelora Bung Karno, Jakarta",
+         "D": "Jakarta",
+         "E": "IMPACTNATION JAPAN FESTIVAL 2024",
+         "F": "22-12-2023 00:20",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162256506833836\/"
+        },
+        {
+         "Column1": 173,
+         "A": "21 Jul 2024",
+         "C": "Istora Gelora Bung Karno, Jakarta",
+         "D": "Jakarta",
+         "E": "IMPACTNATION JAPAN FESTIVAL 2024",
+         "F": "22-12-2023 00:20",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162256506833836\/"
+        },
+        {
+         "Column1": 174,
+         "A": "26 Jul 2024",
+         "C": "Neo Soho (Central Park)",
+         "D": "Jakarta Barat",
+         "E": "INDONESIA DESIGNER ART-TOYS EXPO Vol.2",
+         "F": "07-09-2023 19:16",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 175,
+         "A": "27 Jul 2024",
+         "C": "Neo Soho (Central Park)",
+         "D": "Jakarta Barat",
+         "E": "INDONESIA DESIGNER ART-TOYS EXPO Vol.2",
+         "F": "07-09-2023 19:16",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 176,
+         "A": "28 Jul 2024",
+         "C": "Neo Soho (Central Park)",
+         "D": "Jakarta Barat",
+         "E": "INDONESIA DESIGNER ART-TOYS EXPO Vol.2",
+         "F": "07-09-2023 19:16",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 177,
+         "A": "07 Sep 2024",
+         "C": "Balai Prajurit Expo",
+         "D": "Jakarta Selatan",
+         "E": "BATTLE OF THE TOYS",
+         "F": "26-01-2024 15:30",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 178,
+         "A": "08 Sep 2024",
+         "C": "Balai Prajurit Expo",
+         "D": "Jakarta Selatan",
+         "E": "BATTLE OF THE TOYS",
+         "F": "26-01-2024 15:31",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 179,
+         "A": "14 Sep 2024",
+         "C": "Palangkaraya (TBA)",
+         "D": "Palangkaraya",
+         "E": "ISSHONI ASOBOU 2 (いっしょに遊ぼう２)",
+         "F": "11-01-2024 18:52",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162287012693836\/"
+        },
+        {
+         "Column1": 180,
+         "A": "14 Sep 2024",
+         "C": "Balai Prajurit Expo",
+         "D": "Jakarta Selatan",
+         "E": "BATTLE OF THE TOYS",
+         "F": "26-01-2024 15:31",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 181,
+         "A": "15 Sep 2024",
+         "C": "Balai Prajurit Expo",
+         "D": "Jakarta Selatan",
+         "E": "BATTLE OF THE TOYS",
+         "F": "26-01-2024 15:31",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 182,
+         "A": "26 Sep 2024",
+         "C": "AEON Mall, Tanjung Barat",
+         "D": "Jakarta Selatan",
+         "E": "AEONIME Vol.3",
+         "F": "26-01-2024 15:31",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 183,
+         "A": "27 Sep 2024",
+         "C": "AEON Mall, Tanjung Barat",
+         "D": "Jakarta Selatan",
+         "E": "AEONIME Vol.3",
+         "F": "26-01-2024 15:32",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 184,
+         "A": "28 Sep 2024",
+         "C": "AEON Mall, Tanjung Barat",
+         "D": "Jakarta Selatan",
+         "E": "AEONIME Vol.3",
+         "F": "26-01-2024 15:31",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 185,
+         "A": "29 Sep 2024",
+         "C": "AEON Mall, Tanjung Barat",
+         "D": "Jakarta Selatan",
+         "E": "AEONIME Vol.3",
+         "F": "26-01-2024 15:32",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 186,
+         "A": "09 Nov 2024",
+         "C": "Jakarta Convention Center (JCC)",
+         "D": "Jakarta Pusat",
+         "E": "INDONESIA COMIC-CON",
+         "F": "26-01-2024 15:33",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 187,
+         "A": "10 Nov 2024",
+         "C": "Jakarta Convention Center (JCC)",
+         "D": "Jakarta Pusat",
+         "E": "INDONESIA COMIC-CON",
+         "F": "26-01-2024 15:34",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 188,
+         "A": "21 Nov 2024",
+         "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
+         "D": "Jakarta Utara",
+         "E": "PLAY JAPAN",
+         "F": "26-01-2024 15:34",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 189,
+         "A": "22 Nov 2024",
+         "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
+         "D": "Jakarta Utara",
+         "E": "PLAY JAPAN",
+         "F": "26-01-2024 15:35",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 190,
+         "A": "23 Nov 2024",
+         "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
+         "D": "Jakarta Utara",
+         "E": "PLAY JAPAN",
+         "F": "26-01-2024 15:35",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 191,
+         "A": "24 Nov 2024",
+         "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
+         "D": "Jakarta Utara",
+         "E": "PLAY JAPAN",
+         "F": "26-01-2024 15:34",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 192,
+         "C": "Submisi: 1 Januari - 17 Februari 2024 https:\/\/lynk.id\/achara",
+         "D": "(Online)",
+         "E": "CHARASPECTA ~ The Grand Galactic Showcase [Online Photo Cosplay]",
+         "F": "26-01-2024 18:05",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281049318836\/"
+        },
+        {
+         "Column1": 193,
+         "C": "Maret 2024?, SMAN 9 Bekasi (TBA)",
+         "D": "Bekasi",
+         "E": "KOMBAT FEST SMAN 9 BEKASI",
+         "F": "26-01-2024 16:01",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162285476078836\/"
+        },
+        {
+         "Column1": 194,
+         "C": "Maret\/April 2024, RESINDA PARK MALL, Karawang Barat (TBA)",
+         "D": "Karawang",
+         "E": "NEOTAKU",
+         "F": "26-01-2024 15:24",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 195,
+         "C": "April 2024, STBA YAPARI - ABA, Bandung",
+         "D": "Bandung",
+         "E": "YAMATO DAMASHII XVII",
+         "F": "25-01-2024 19:04",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281324023836\/"
+        },
+        {
+         "Column1": 196,
+         "C": "(RESCHEDULE) April 2024, Universitas Katolik Parahyangan",
+         "D": "Bandung",
+         "E": "RETORO MATSURI",
+         "F": "25-01-2024 20:36",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281076298836\/"
+        },
+        {
+         "Column1": 197,
+         "C": "(POSTPONED) Mei 2024, Univ. 17 Agustus 1945, Surabaya",
+         "D": "Surabaya",
+         "E": "Coswalk Competition INDIFEST 2024",
+         "F": "10-01-2024 09:34",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280788898836\/"
+        },
+        {
+         "Column1": 198,
+         "C": "Mei 2024?, SMAN 1 Bekasi (TBA)",
+         "D": "Bekasi",
+         "E": "INOBU",
+         "F": "09-01-2024 01:21",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162073953933836\/"
+        },
+        {
+         "Column1": 199,
+         "C": "Mei 2024, Universitas Bung Hatta, Padang (TBA)",
+         "D": "Padang",
+         "E": "Bunkasai XXI Universitas Bung Hatta",
+         "F": "09-01-2024 01:01",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162283321343836\/"
+        },
+        {
+         "Column1": 200,
+         "C": "(POSTPONED) Mei 2024, SMAN Dua Banjarmasin",
+         "D": "Banjarmasin",
+         "E": "Tales of SMADIA",
+         "F": "15-01-2024 19:15",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162292863868836\/"
+        },
+        {
+         "Column1": 201,
+         "C": "June 2024, Lippo Mall Kemang (TBA)",
+         "D": "Jakarta Selatan",
+         "E": "REAL-AMERICAN HEROES CONVENTION",
+         "F": "26-01-2024 11:20",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 202,
+         "C": "Agustus 2024?, Univesitas Indonesia, Jakarta (TBA)",
+         "D": "Jakarta",
+         "E": "Gelar Jepang UI 30",
+         "F": "09-02-2024 15:08",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280571033836\/"
+        },
+        {
+         "Column1": 203,
+         "C": "Agustus 2024, MALL OF INDONESIA - Atrium 2 (TBC)",
+         "D": "Jakarta Utara",
+         "E": "INDONESIAN TOY'S COLLECTOR PLAYGROUND",
+         "F": "26-01-2024 11:21",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 204,
+         "C": "Agustus 2024, KOTA KASABLANKA (KOKAS) - Fashion Atrium GF",
+         "D": "Jakarta Selatan",
+         "E": "JAPANOIZY",
+         "F": "16-09-2023 13:22",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
+        },
+        {
+         "Column1": 205,
+         "C": "Oktober 2024, ICE BSD",
+         "D": "Tangerang",
+         "E": "INDONESIA DIE-CAST EXPO (IDE)",
+         "F": "26-01-2024 15:33",
+         "G": "https:\/\/www.facebook.com\/jtcfair"
+        },
+        {
+         "Column1": 206,
+         "C": "2024, (Jabodetabek) (TBA)",
+         "D": "Jabodetabek",
+         "E": "AQU Fest Hajimari",
+         "F": "07-01-2024 20:40",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280194008836\/"
+        },
+        {
+         "Column1": 207,
+         "C": "2024, Jakarta (TBA)",
+         "D": "Jakarta",
+         "E": "Indonesia Anime Con [Powered by Indonesia Comic Con\/ICC]",
+         "F": "07-01-2024 20:41",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280196708836\/"
+        },
+        {
+         "Column1": 208,
+         "C": "2024, Universitas Tanjungpura, Pontianak (TBA)",
+         "D": "Pontianak",
+         "E": "JAPAN CORNER'S TANJOUSAI",
+         "F": "07-01-2024 21:12",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281111578836\/"
+        },
+        {
+         "Column1": 209,
+         "C": "2024, Lumajang (TBA)",
+         "D": "Lumajang",
+         "E": "Lumajang Toys & Hobbies 2024",
+         "F": "07-01-2024 21:17",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281068093836\/"
+        },
+        {
+         "Column1": 210,
+         "C": "2024, Telkom University, Bandung (TBA)",
+         "D": "Bandung",
+         "E": "Nihon no Matsuri (NNM) 15",
+         "F": "07-01-2024 21:21",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281328313836\/"
+        },
+        {
+         "Column1": 211,
+         "C": "2024, Kendari (TBA)",
+         "D": "Kendari",
+         "E": "FUWA FUWA FESTIVAL",
+         "F": "07-01-2024 21:22",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281369798836\/"
+        },
+        {
+         "Column1": 212,
+         "C": "2024, SMAN 7 Bekasi (TBA)",
+         "D": "Bekasi",
+         "E": "Kimochi no Matsuri KIMONO 2024 ~kingdom above the clouds~",
+         "F": "07-01-2024 21:25",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281486843836\/"
+        },
+        {
+         "Column1": 213,
+         "C": "2024, Jambi (TBA)",
+         "D": "Jambi",
+         "E": "JAMBI COSUPURE NO MATSURI",
+         "F": "08-01-2024 19:00",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162282796748836\/"
+        },
+        {
+         "Column1": 214,
+         "C": "2024, Ngawi, Jawa Timur (TBA)",
+         "D": "Ngawi",
+         "E": "NGAWI MONOGATARI",
+         "F": "08-01-2024 19:02",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162282828193836\/"
+        },
+        {
+         "Column1": 215,
+         "C": "2024, Nganjuk, Jawa Timur",
+         "D": "Nganjuk",
+         "E": "Kaze wo Fukasete",
+         "F": "08-01-2024 19:04",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162282832753836\/"
+        },
+        {
+         "Column1": 216,
+         "C": "2024, Nganjuk, Jawa Timur",
+         "D": "Nganjuk",
+         "E": "MINI ANIFEST NGANJUK",
+         "F": "13-01-2024 03:56",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162282831738836\/"
+        },
+        {
+         "Column1": 217,
+         "C": "2024, Bandung (TBA)",
+         "D": "Bandung",
+         "E": "WIDYATAMA JAPAN MATSURI",
+         "F": "25-01-2024 20:05",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162305883818836\/"
+        },
+        {
+         "Column1": 218,
+         "C": "(CANCELLED) Q1 2024, LRT, Gedung MCC",
+         "D": "Jakarta Utara",
+         "E": "Light Rail Matsuri",
+         "F": "10-02-2024 11:50",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162232978533836\/"
+        },
+        {
+         "Column1": 219,
+         "C": "(RESCHEDULE) Semarang",
+         "D": "Semarang",
+         "E": "The Continental - Old Sake Night",
+         "F": "09-01-2024 01:21",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162252469008836\/"
+        },
+        {
+         "Column1": 220,
+         "C": "(POSTPONED) Grha Bung Karno, Klaten",
+         "D": "Klaten",
+         "E": "Klaten Matsuri 2",
+         "F": "25-01-2024 21:54",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280521038836\/"
+        },
+        {
+         "Column1": 221,
+         "C": "(POSTPONED) Phinisi Point Mall, Makassar",
+         "D": "Makassar",
+         "E": "Veeoocee Take Cosplayer Out",
+         "F": "31-01-2024 13:30",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162297122228836\/"
+        },
+        {
+         "Column1": 222,
+         "C": "(POSTPONED) Jakarta",
+         "D": "Jakarta",
+         "E": "1 Dekade DDM+",
+         "F": "08-02-2024 23:04",
+         "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162223734963836\/"
         }
       ]
