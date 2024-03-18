@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Viewer</title>
+</head>
+<body>
+    <h1>Daftar Event</h1>
+    <div id="events"></div>
+
+    <script>
+        // Ganti URL dengan endpoint API Anda yang sebenarnya
+        const apiUrl = 'http://localhost:3000/api/events';
+
+        fetch(apiUrl)
+            .then(response => response.json())
+            .then(data => {
+                const eventsContainer = document.getElementById('events');
+                
+                // Pastikan data yang diterima adalah array dan memiliki isi
+                if(Array.isArray(data) && data.length > 0) {
+                    const eventsList = data.map(event =>
+                        `<div>
+                            <h2>${event['E'] || 'Tidak Tersedia'}</h2> <!-- Nama event -->
+            <p>Date: ${event['A'] || 'Tidak Tersedia'}</p> <!-- Tanggal -->
+            <p>Location: ${event['C'] || 'Tidak Tersedia'}</p> <!-- Lokasi -->
+            <p>Area: ${event['D'] || 'Tidak Tersedia'}</p> <!-- Area -->
+            <a href="${event['G'] || '#'}" target="_blank" class="btn btn-warning">Event Link</a> <!-- Link acara -->
+           
+                        </div>`
+                    ).join(''); // Menggabungkan semua item array menjadi satu string HTML
+
+                    eventsContainer.innerHTML = eventsList;
+                } else {
+                    eventsContainer.innerHTML = '<p>Tidak ada event yang tersedia.</p>';
+                }
+            })
+            .catch(error => {
+                console.error('Error fetching events:', error);
+                document.getElementById('events').innerHTML = '<p>Gagal memuat data event.</p>';
+            });
+    </script>
+</body>
+</html>
