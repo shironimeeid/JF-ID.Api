@@ -1,23 +1,5 @@
 [
  {
-  "Column1": 1,
-  "A": "Tanggal",
-  "B": "Jam",
-  "C": "Lokasi (baca keterangan lebih lanjut di Facebook Page)",
-  "D": "Area",
-  "E": "Nama Acara (Link acara klik)",
-  "F": "Last Update",
-  "G": "Link Acara"
- },
- {
-  "Column1": 2,
-  "C": "Eventmu belum ada? perbaikan jadwal event? -->",
-  "D": "----------------->",
-  "E": "Post atau edit event (komentar di chart) atau ke grup fb-> Join grup ->",
-  "F": "---------------------->",
-  "G": "bit.ly\/JFestAdd"
- },
- {
   "Column1": 3,
   "A": "17 Mar 2024",
   "B": "11:00",
