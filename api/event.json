@@ -1,15 +1,5 @@
-[
- {
-  "Column1": 9,
-  "A": "23 Mar 2024",
-  "B": "13:00",
-  "C": "FOODNATION - LT.2 MALL BEKASI CYBER PARK ",
-  "D": "Bekasi",
-  "E": "OTAKU IFTAR FEST",
-  "F": "13-03-2024 22:27",
-  "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162381079288836\/"
- },
-   {
+[ 
+{
   "Column1": 3,
   "A": "29 Mar 2024",
   "B": "15:00",
@@ -20,7 +10,56 @@
   "G": "https://www.instagram.com/ynna.community/"
  },
  {
-  "Column1": 10,
+  "Column1": 3,
+  "A": "23 Mar 2024",
+  "B": "13:00",
+  "C": "FOODNATION - LT.2 MALL BEKASI CYBER PARK ",
+  "D": "Bekasi",
+  "E": "OTAKU IFTAR FEST",
+  "F": "13-03-2024 22:27",
+  "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162381079288836\/"
+ },
+ {
+  "Column1": 4,
+  "A": "23 Mar 2024",
+  "B": "20:30",
+  "C": "Tori Kaizoku, Mega Kuningan, Jakarta",
+  "D": "Jakarta Selatan",
+  "E": "KAIZO QUIZ NIGHT",
+  "F": "19-03-2024 19:51",
+  "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162389985013836\/"
+ },
+ {
+  "Column1": 5,
+  "A": "24 Mar 2024",
+  "B": "12:00",
+  "C": "METRO INDAH MALL BANDUNG",
+  "D": "Bandung",
+  "E": "ROAD TO SEISHUN SEKAI",
+  "F": "19-03-2024 19:50",
+  "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162386402933836\/"
+ },
+ {
+  "Column1": 6,
+  "A": "24 Mar 2024",
+  "B": "15:00",
+  "C": "Gelanggang Generasi Muda, Bandung",
+  "D": "Bandung",
+  "E": "COSBAN NGABUBURIT",
+  "F": "19-03-2024 19:49",
+  "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162385553628836\/"
+ },
+ {
+  "Column1": 7,
+  "A": "24 Mar 2024",
+  "C": "KAIZO QUIZ NIGHT",
+  "D": "Jakarta Utara",
+  "E": "Wibukber ~ WIBU BUKBER",
+  "F": "19-03-2024 19:51",
+  "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162389974813836\/"
+ },
+ {
+  "Column1": 8,
   "A": "30 Mar 2024",
   "B": "15:00",
   "C": "Ciplaz Ciledug, Tangerang",
@@ -30,7 +69,17 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162381214148836\/"
  },
  {
-  "Column1": 11,
+  "Column1": 9,
+  "A": "30 Mar 2024",
+  "B": "15:00",
+  "C": "Gerobak'Ku Signature Nitikan @gerobakku9 Umbulharjo, Yogyakarta",
+  "D": "Yogyakarta",
+  "E": "Anikura Bansankai (アニクラ晩餐会)",
+  "F": "19-03-2024 22:11",
+  "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162390126188836\/"
+ },
+ {
+  "Column1": 10,
   "A": "20 Apr 2024",
   "C": "Convention Hall, Tunjungan Plaza 3, Surabaya",
   "D": "Surabaya",
@@ -39,7 +88,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281380803836\/"
  },
  {
-  "Column1": 12,
+  "Column1": 11,
   "A": "20 Apr 2024",
   "C": "SPARK (Senayan Park), Jakarta Pusat ",
   "D": "Jakarta Pusat",
@@ -48,7 +97,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162334741448836\/"
  },
  {
-  "Column1": 13,
+  "Column1": 12,
   "A": "20 Apr 2024",
   "C": "Poins Mall Simatupang, Jakarta",
   "D": "Jakarta Selatan",
@@ -57,7 +106,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162383764198836\/"
  },
  {
-  "Column1": 14,
+  "Column1": 13,
   "A": "21 Apr 2024",
   "C": "Multifunction Sport Hall Balai Jagong KUDUS",
   "D": "Kudus",
@@ -66,7 +115,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162279643948836\/"
  },
  {
-  "Column1": 15,
+  "Column1": 14,
   "A": "21 Apr 2024",
   "C": "Convention Hall, Tunjungan Plaza 3, Surabaya",
   "D": "Surabaya",
@@ -75,7 +124,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281380803836\/"
  },
  {
-  "Column1": 16,
+  "Column1": 15,
   "A": "21 Apr 2024",
   "C": "SPARK (Senayan Park), Jakarta Pusat",
   "D": "Jakarta Pusat",
@@ -84,7 +133,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162334741448836\/"
  },
  {
-  "Column1": 17,
+  "Column1": 16,
   "A": "21 Apr 2024",
   "C": "Adisucipto International Aiport",
   "D": "Yogyakarta",
@@ -93,7 +142,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162370407203836\/"
  },
  {
-  "Column1": 18,
+  "Column1": 17,
   "A": "21 Apr 2024",
   "C": "Poins Mall Simatupang, Jakarta",
   "D": "Jakarta Selatan",
@@ -102,7 +151,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162383764198836\/"
  },
  {
-  "Column1": 19,
+  "Column1": 18,
   "A": "22 Apr 2024",
   "C": "Adisucipto International Aiport",
   "D": "Yogyakarta",
@@ -111,7 +160,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162370407203836\/"
  },
  {
-  "Column1": 20,
+  "Column1": 19,
   "A": "25 Apr 2024",
   "C": "Emporium Mall Pluit",
   "D": "Jakarta Utara",
@@ -120,7 +169,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 21,
+  "Column1": 20,
   "A": "25 Apr 2024",
   "C": "Emporium Mall Pluit",
   "D": "Jakarta Utara",
@@ -129,7 +178,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 22,
+  "Column1": 21,
   "A": "26 Apr 2024",
   "C": "Emporium Mall Pluit",
   "D": "Jakarta Utara",
@@ -138,7 +187,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 23,
+  "Column1": 22,
   "A": "26 Apr 2024",
   "C": "Sesi di Pusat Studi Jepang Universitas Indonesia",
   "D": "Jakarta Pusat",
@@ -147,7 +196,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162345868193836\/"
  },
  {
-  "Column1": 24,
+  "Column1": 23,
   "A": "27 Apr 2024",
   "C": "Emporium Mall Pluit",
   "D": "Jakarta Utara",
@@ -156,7 +205,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 25,
+  "Column1": 24,
   "A": "27 Apr 2024",
   "C": "STBA YAPARI - ABA, Bandung",
   "D": "Bandung",
@@ -165,7 +214,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281324023836\/"
  },
  {
-  "Column1": 26,
+  "Column1": 25,
   "A": "27 Apr 2024",
   "C": "Taman Menteng, Jakarta",
   "D": "Jakarta Pusat",
@@ -174,7 +223,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162381333473836\/"
  },
  {
-  "Column1": 27,
+  "Column1": 26,
   "A": "28 Apr 2024",
   "B": "10:00",
   "C": "(RESCHEDULE) Mangga Dua Square",
@@ -184,7 +233,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280397208836\/"
  },
  {
-  "Column1": 28,
+  "Column1": 27,
   "A": "28 Apr 2024",
   "C": "Emporium Mall Pluit",
   "D": "Jakarta Utara",
@@ -193,7 +242,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 29,
+  "Column1": 28,
   "A": "28 Apr 2024",
   "C": "STBA YAPARI - ABA, Bandung",
   "D": "Bandung",
@@ -202,7 +251,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281324023836\/"
  },
  {
-  "Column1": 30,
+  "Column1": 29,
   "A": "28 Apr 2024",
   "C": "Cecemuwe Cafe, Jakarta Selatan",
   "D": "Jakarta Selatan",
@@ -211,7 +260,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162354250138836\/"
  },
  {
-  "Column1": 31,
+  "Column1": 30,
   "A": "28 Apr 2024",
   "C": "Harmonie Xchange, Gambir",
   "D": "Jakarta Pusat",
@@ -220,7 +269,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162368321213836\/"
  },
  {
-  "Column1": 32,
+  "Column1": 31,
   "A": "28 Apr 2024",
   "C": "Taman Menteng, Jakarta",
   "D": "Jakarta Pusat",
@@ -229,8 +278,17 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162381333473836\/"
  },
  {
-  "Column1": 33,
+  "Column1": 32,
   "A": "03 Mei 2024",
+  "C": "Jakarta Convention Center",
+  "D": "Jakarta Pusat",
+  "E": "Anime Festival Asia 2024 AFAID 24",
+  "F": "26-11-2023 10:04",
+  "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162220884583836\/"
+ },
+ {
+  "Column1": 33,
+  "A": "04 Mei 2024",
   "C": "Jakarta Convention Center",
   "D": "Jakarta Pusat",
   "E": "Anime Festival Asia 2024 AFAID 24",
@@ -240,15 +298,6 @@
  {
   "Column1": 34,
   "A": "04 Mei 2024",
-  "C": "Jakarta Convention Center",
-  "D": "Jakarta Pusat",
-  "E": "Anime Festival Asia 2024 AFAID 24",
-  "F": "26-11-2023 10:04",
-  "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162220884583836\/"
- },
- {
-  "Column1": 35,
-  "A": "04 Mei 2024",
   "C": "Jogja Expo Center",
   "D": "Yogyakarta",
   "E": "Comic Paradise (Comipara) 2",
@@ -256,7 +305,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162278966583836\/"
  },
  {
-  "Column1": 36,
+  "Column1": 35,
   "A": "05 Mei 2024",
   "C": "Jakarta Convention Center",
   "D": "Jakarta Pusat",
@@ -265,7 +314,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162220884583836\/"
  },
  {
-  "Column1": 37,
+  "Column1": 36,
   "A": "05 Mei 2024",
   "C": "Jogja Expo Center",
   "D": "Yogyakarta",
@@ -274,7 +323,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162278966583836\/"
  },
  {
-  "Column1": 38,
+  "Column1": 37,
   "A": "09 Mei 2024",
   "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
   "D": "Jakarta Utara",
@@ -283,7 +332,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 39,
+  "Column1": 38,
   "A": "10 Mei 2024",
   "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
   "D": "Jakarta Utara",
@@ -292,7 +341,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 40,
+  "Column1": 39,
   "A": "11 Mei 2024",
   "C": "Hall 8,9,10 Indonesia Convention Exhibition, BSD ",
   "D": "Tangerang",
@@ -301,26 +350,26 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162250900713836\/"
  },
  {
-  "Column1": 41,
+  "Column1": 40,
   "A": "11 Mei 2024",
   "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
   "D": "Jakarta Utara",
   "E": "COSUFEST",
   "F": "26-01-2024 15:26",
   "G": "https:\/\/www.facebook.com\/jtcfair"
+ },
+ {
+  "Column1": 41,
+  "A": "12 Mei 2024",
+  "C": "Hall 8,9,10 Indonesia Convention Exhibition, BSD ",
+  "D": "Tangerang",
+  "E": "Comic Frontier 18 (CF 18) Comifuro 18",
+  "F": "18-12-2023 20:02",
+  "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162250900713836\/"
  },
  {
   "Column1": 42,
   "A": "12 Mei 2024",
-  "C": "Hall 8,9,10 Indonesia Convention Exhibition, BSD ",
-  "D": "Tangerang",
-  "E": "Comic Frontier 18 (CF 18) Comifuro 18",
-  "F": "18-12-2023 20:02",
-  "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162250900713836\/"
- },
- {
-  "Column1": 43,
-  "A": "12 Mei 2024",
   "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
   "D": "Jakarta Utara",
   "E": "COSUFEST",
@@ -328,7 +377,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 44,
+  "Column1": 43,
   "A": "24 Mei 2024",
   "C": "Neo Soho (Central Park)",
   "D": "Jakarta Barat",
@@ -337,7 +386,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 45,
+  "Column1": 44,
   "A": "24 Mei 2024",
   "C": "Fx Sudirman",
   "D": "Jakarta Pusat",
@@ -346,7 +395,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162296749983836\/"
  },
  {
-  "Column1": 46,
+  "Column1": 45,
   "A": "25 Mei 2024",
   "C": "Neo Soho (Central Park)",
   "D": "Jakarta Barat",
@@ -355,7 +404,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 47,
+  "Column1": 46,
   "A": "25 Mei 2024",
   "C": "Fx Sudirman",
   "D": "Jakarta Pusat",
@@ -364,7 +413,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162296749983836\/"
  },
  {
-  "Column1": 48,
+  "Column1": 47,
   "A": "25 Mei 2024",
   "C": "UNNES (Universitas Negeri Semarang) (TBA)",
   "D": "Semarang",
@@ -373,7 +422,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162287542358836\/"
  },
  {
-  "Column1": 49,
+  "Column1": 48,
   "A": "25 Mei 2024",
   "C": "Smesco Indonesia, Jakarta",
   "D": "Jakarta Selatan",
@@ -382,7 +431,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162366250168836\/"
  },
  {
-  "Column1": 50,
+  "Column1": 49,
   "A": "26 Mei 2024",
   "C": "Neo Soho (Central Park)",
   "D": "Jakarta Barat",
@@ -391,7 +440,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 51,
+  "Column1": 50,
   "A": "26 Mei 2024",
   "C": "Fx Sudirman Mall, Jakarta",
   "D": "Jakarta Pusat",
@@ -400,7 +449,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162296749983836\/"
  },
  {
-  "Column1": 52,
+  "Column1": 51,
   "A": "26 Mei 2024",
   "C": "Fx Sudirman",
   "D": "Jakarta Pusat",
@@ -409,7 +458,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162296749983836\/"
  },
  {
-  "Column1": 53,
+  "Column1": 52,
   "A": "26 Mei 2024",
   "C": "Smesco Indonesia, Jakarta",
   "D": "Jakarta Selatan",
@@ -418,7 +467,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162366250168836\/"
  },
  {
-  "Column1": 54,
+  "Column1": 53,
   "A": "02 Jun 2024",
   "C": "Dumai (TBA)",
   "D": "Dumai",
@@ -427,7 +476,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162283408558836\/"
  },
  {
-  "Column1": 55,
+  "Column1": 54,
   "A": "05 Jun 2024",
   "C": "5 Juni (10.00 WIB) – 19 Juni (10.00 WIB) 2024: 22 film",
   "D": "(Online)",
@@ -436,7 +485,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162345770258836\/"
  },
  {
-  "Column1": 56,
+  "Column1": 55,
   "A": "08 Jun 2024",
   "C": "Terminal B Adisutjipto, Yogyakarta",
   "D": "Yogyakarta",
@@ -445,7 +494,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162290070043836\/"
  },
  {
-  "Column1": 57,
+  "Column1": 56,
   "A": "08 Jun 2024",
   "C": "Balai Prajurit Expo",
   "D": "Jakarta Selatan",
@@ -454,7 +503,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 58,
+  "Column1": 57,
   "A": "09 Jun 2024",
   "C": "Terminal B Adisutjipto, Yogyakarta",
   "D": "Yogyakarta",
@@ -463,7 +512,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162290070043836\/"
  },
  {
-  "Column1": 59,
+  "Column1": 58,
   "A": "09 Jun 2024",
   "C": "Balai Prajurit Expo",
   "D": "Jakarta Selatan",
@@ -472,25 +521,25 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 60,
+  "Column1": 59,
   "A": "15 Jun 2024",
   "C": "Hall 9&10 ICE BSD, Tangerang",
-  "D": "Jakarta",
+  "D": "Tangerang",
   "E": "Indonesia Anime Con [Powered by Indonesia Comic Con\/ICC]",
   "F": "07-03-2024 15:19",
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280196708836\/"
  },
  {
-  "Column1": 61,
+  "Column1": 60,
   "A": "16 Jun 2024",
   "C": "Hall 9&10 ICE BSD, Tangerang",
-  "D": "Jakarta",
+  "D": "Tangerang",
   "E": "Indonesia Anime Con [Powered by Indonesia Comic Con\/ICC]",
   "F": "07-03-2024 15:20",
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280196708836\/"
  },
  {
-  "Column1": 62,
+  "Column1": 61,
   "A": "19 Jun 2024",
   "C": "19 Juni (10.00 WIB) – 3 Juli (10.00 WIB) 2024: 2 TV drama",
   "D": "(Online)",
@@ -499,7 +548,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162345770258836\/"
  },
  {
-  "Column1": 63,
+  "Column1": 62,
   "A": "29 Jun 2024",
   "C": "Kota Kertabumi, Karawang ",
   "D": "Karawang",
@@ -508,7 +557,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280204833836\/"
  },
  {
-  "Column1": 64,
+  "Column1": 63,
   "A": "30 Jun 2024",
   "C": "Karawang, (TBA)",
   "D": "Karawang",
@@ -517,7 +566,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280204833836\/"
  },
  {
-  "Column1": 65,
+  "Column1": 64,
   "A": "20 Jul 2024",
   "C": "Istora Gelora Bung Karno, Jakarta",
   "D": "Jakarta",
@@ -526,7 +575,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162256506833836\/"
  },
  {
-  "Column1": 66,
+  "Column1": 65,
   "A": "21 Jul 2024",
   "C": "Istora Gelora Bung Karno, Jakarta",
   "D": "Jakarta",
@@ -535,7 +584,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162256506833836\/"
  },
  {
-  "Column1": 67,
+  "Column1": 66,
   "A": "26 Jul 2024",
   "C": "Neo Soho (Central Park)",
   "D": "Jakarta Barat",
@@ -544,7 +593,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 68,
+  "Column1": 67,
   "A": "27 Jul 2024",
   "C": "Neo Soho (Central Park)",
   "D": "Jakarta Barat",
@@ -553,7 +602,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 69,
+  "Column1": 68,
   "A": "28 Jul 2024",
   "C": "Neo Soho (Central Park)",
   "D": "Jakarta Barat",
@@ -562,7 +611,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 70,
+  "Column1": 69,
   "A": "07 Sep 2024",
   "C": "Balai Prajurit Expo",
   "D": "Jakarta Selatan",
@@ -571,7 +620,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 71,
+  "Column1": 70,
   "A": "08 Sep 2024",
   "C": "Balai Prajurit Expo",
   "D": "Jakarta Selatan",
@@ -580,7 +629,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 72,
+  "Column1": 71,
   "A": "14 Sep 2024",
   "C": "Palangkaraya (TBA)",
   "D": "Palangkaraya",
@@ -589,7 +638,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162287012693836\/"
  },
  {
-  "Column1": 73,
+  "Column1": 72,
   "A": "14 Sep 2024",
   "C": "Balai Prajurit Expo",
   "D": "Jakarta Selatan",
@@ -598,7 +647,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 74,
+  "Column1": 73,
   "A": "15 Sep 2024",
   "C": "Balai Prajurit Expo",
   "D": "Jakarta Selatan",
@@ -607,7 +656,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 75,
+  "Column1": 74,
   "A": "26 Sep 2024",
   "C": "AEON Mall, Tanjung Barat",
   "D": "Jakarta Selatan",
@@ -616,7 +665,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 76,
+  "Column1": 75,
   "A": "27 Sep 2024",
   "C": "AEON Mall, Tanjung Barat",
   "D": "Jakarta Selatan",
@@ -625,7 +674,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 77,
+  "Column1": 76,
   "A": "28 Sep 2024",
   "C": "AEON Mall, Tanjung Barat",
   "D": "Jakarta Selatan",
@@ -634,7 +683,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 78,
+  "Column1": 77,
   "A": "29 Sep 2024",
   "C": "AEON Mall, Tanjung Barat",
   "D": "Jakarta Selatan",
@@ -643,7 +692,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 79,
+  "Column1": 78,
   "A": "09 Nov 2024",
   "C": "Jakarta Convention Center (JCC)",
   "D": "Jakarta Pusat",
@@ -652,7 +701,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 80,
+  "Column1": 79,
   "A": "10 Nov 2024",
   "C": "Jakarta Convention Center (JCC)",
   "D": "Jakarta Pusat",
@@ -661,7 +710,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 81,
+  "Column1": 80,
   "A": "21 Nov 2024",
   "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
   "D": "Jakarta Utara",
@@ -670,7 +719,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 82,
+  "Column1": 81,
   "A": "22 Nov 2024",
   "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
   "D": "Jakarta Utara",
@@ -679,7 +728,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 83,
+  "Column1": 82,
   "A": "23 Nov 2024",
   "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
   "D": "Jakarta Utara",
@@ -688,7 +737,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 84,
+  "Column1": 83,
   "A": "24 Nov 2024",
   "C": "Pluit Village, Jln. Pluit Indah Raya, Penjaringan",
   "D": "Jakarta Utara",
@@ -697,7 +746,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 85,
+  "Column1": 84,
   "C": "Maret\/April 2024, RESINDA PARK MALL, Karawang Barat (TBA)",
   "D": "Karawang",
   "E": "NEOTAKU",
@@ -705,7 +754,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 86,
+  "Column1": 85,
   "C": "(RESCHEDULE) April 2024, Universitas Katolik Parahyangan",
   "D": "Bandung",
   "E": "RETORO MATSURI",
@@ -713,7 +762,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281076298836\/"
  },
  {
-  "Column1": 87,
+  "Column1": 86,
   "C": "April 2024, Klaten (TBA)",
   "D": "Klaten",
   "E": "Klaten Matsuri 2",
@@ -721,7 +770,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280521038836\/"
  },
  {
-  "Column1": 88,
+  "Column1": 87,
   "C": "(POSTPONED) Mei 2024, Univ. 17 Agustus 1945, Surabaya",
   "D": "Surabaya",
   "E": "Coswalk Competition INDIFEST 2024",
@@ -729,7 +778,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280788898836\/"
  },
  {
-  "Column1": 89,
+  "Column1": 88,
   "C": "Mei 2024, SMAN 1 Bekasi (TBA)",
   "D": "Bekasi",
   "E": "INOBU",
@@ -737,7 +786,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162073953933836\/"
  },
  {
-  "Column1": 90,
+  "Column1": 89,
   "C": "Mei 2024, Universitas Bung Hatta, Padang (TBA)",
   "D": "Padang",
   "E": "Bunkasai XXI Universitas Bung Hatta",
@@ -745,7 +794,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162283321343836\/"
  },
  {
-  "Column1": 91,
+  "Column1": 90,
   "C": "(POSTPONED) Mei 2024, SMAN Dua Banjarmasin",
   "D": "Banjarmasin",
   "E": "Tales of SMADIA",
@@ -753,7 +802,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162292863868836\/"
  },
  {
-  "Column1": 92,
+  "Column1": 91,
   "C": "June 2024, Lippo Mall Kemang (TBA)",
   "D": "Jakarta Selatan",
   "E": "REAL-AMERICAN HEROES CONVENTION",
@@ -761,7 +810,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 93,
+  "Column1": 92,
   "C": "June 2024, Jakarta (TBA) [Tingkat SMA sederajat se Jakarta-Jabar]",
   "D": "Jakarta",
   "E": "Cosplay Contest RRQ Mabar ",
@@ -769,7 +818,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162381338388836\/"
  },
  {
-  "Column1": 94,
+  "Column1": 93,
   "C": "Agustus 2024?, Univesitas Indonesia, Jakarta (TBA)",
   "D": "Jakarta",
   "E": "Gelar Jepang UI 30",
@@ -777,7 +826,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280571033836\/"
  },
  {
-  "Column1": 95,
+  "Column1": 94,
   "C": "Agustus 2024, MALL OF INDONESIA - Atrium 2 (TBC)",
   "D": "Jakarta Utara",
   "E": "INDONESIAN TOY'S COLLECTOR PLAYGROUND",
@@ -785,7 +834,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 96,
+  "Column1": 95,
   "C": "Agustus 2024, KOTA KASABLANKA (KOKAS) - Fashion Atrium GF",
   "D": "Jakarta Selatan",
   "E": "JAPANOIZY",
@@ -793,7 +842,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162048349323836\/"
  },
  {
-  "Column1": 97,
+  "Column1": 96,
   "C": "Oktober 2024, ICE BSD",
   "D": "Tangerang",
   "E": "INDONESIA DIE-CAST EXPO (IDE)",
@@ -801,7 +850,7 @@
   "G": "https:\/\/www.facebook.com\/jtcfair"
  },
  {
-  "Column1": 98,
+  "Column1": 97,
   "C": "2024, (Jabodetabek) (TBA)",
   "D": "Jabodetabek",
   "E": "AQU Fest Hajimari",
@@ -809,7 +858,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162280194008836\/"
  },
  {
-  "Column1": 99,
+  "Column1": 98,
   "C": "2024, Telkom University, Bandung (TBA)",
   "D": "Bandung",
   "E": "Nihon no Matsuri (NNM) 15",
@@ -817,7 +866,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281328313836\/"
  },
  {
-  "Column1": 100,
+  "Column1": 99,
   "C": "2024, Kendari (TBA)",
   "D": "Kendari",
   "E": "FUWA FUWA FESTIVAL",
@@ -825,7 +874,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281369798836\/"
  },
  {
-  "Column1": 101,
+  "Column1": 100,
   "C": "2024, SMAN 7 Bekasi (TBA)",
   "D": "Bekasi",
   "E": "Kimochi no Matsuri KIMONO 2024 ~kingdom above the clouds~",
@@ -833,7 +882,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162281486843836\/"
  },
  {
-  "Column1": 102,
+  "Column1": 101,
   "C": "2024, Jambi (TBA)",
   "D": "Jambi",
   "E": "JAMBI COSUPURE NO MATSURI",
@@ -841,7 +890,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162282796748836\/"
  },
  {
-  "Column1": 103,
+  "Column1": 102,
   "C": "2024, Ngawi, Jawa Timur (TBA)",
   "D": "Ngawi",
   "E": "NGAWI MONOGATARI",
@@ -849,7 +898,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162282828193836\/"
  },
  {
-  "Column1": 104,
+  "Column1": 103,
   "C": "2024, Bandung (TBA)",
   "D": "Bandung",
   "E": "WIDYATAMA JAPAN MATSURI",
@@ -857,7 +906,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162305883818836\/"
  },
  {
-  "Column1": 105,
+  "Column1": 104,
   "C": "2024, Kampus UHAMKA Jakarta (TBA)",
   "D": "Jakarta Selatan",
   "E": "Harumatsuri UHAMKA 17",
@@ -865,7 +914,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162356615803836\/"
  },
  {
-  "Column1": 106,
+  "Column1": 105,
   "C": "(RESCHEDULE) Semarang",
   "D": "Semarang",
   "E": "The Continental - Old Sake Night",
@@ -873,7 +922,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162252469008836\/"
  },
  {
-  "Column1": 107,
+  "Column1": 106,
   "C": "(POSTPONED) Phinisi Point Mall, Makassar",
   "D": "Makassar",
   "E": "Veeoocee Take Cosplayer Out",
@@ -881,7 +930,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162297122228836\/"
  },
  {
-  "Column1": 108,
+  "Column1": 107,
   "C": "(POSTPONED) Jakarta",
   "D": "Jakarta",
   "E": "1 Dekade DDM+",
@@ -889,7 +938,7 @@
   "G": "https:\/\/www.facebook.com\/groups\/251875943835\/permalink\/10162223734963836\/"
  },
  {
-  "Column1": 109,
+  "Column1": 108,
   "C": "Cimahi Mall (TBA)",
   "D": "Cimahi",
   "E": "Wibu Bersorak Ria #Week1 ",
