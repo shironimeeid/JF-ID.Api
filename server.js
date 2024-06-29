@@ -47,9 +47,17 @@ app.get('/api/events/search', (req, res) => {
   });
 });
 
-// Default endpoint for other routes
-app.use('/', (req, res) => {
+// Middleware untuk menyajikan file statis dari direktori 'api'
+app.use(express.static(path.join(__dirname, 'api')));
+
+// Handler untuk route root, mengirimkan file index.html
+app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'api', 'index.html'));
+});
+
+// Handler untuk route '/dashboard.html', mengirimkan file dashboard.html
+app.get('/dashboard.html', (req, res) => {
+  res.sendFile(path.join(__dirname, 'api', 'dashboard.html'));
 });
 
 app.listen(port, () => {
