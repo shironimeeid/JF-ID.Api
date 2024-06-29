@@ -49,14 +49,7 @@ app.get('/api/events/search', (req, res) => {
 
 // Default endpoint for other routes
 app.use('/', (req, res) => {
-  res.json({
-    author: "renn-shiro",
-    message: "Welcome to the API",
-    routes: {
-      events: "/api/events",
-      searchEvents: "/api/events/search?d=depok"
-    },
-  });
+  res.sendFile(path.join(__dirname, 'api', 'index.html'));
 });
 
 app.listen(port, () => {
