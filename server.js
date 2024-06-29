@@ -8,6 +8,7 @@ const port = 3000;
 
 app.use(cors());
 
+// Endpoint to get all events
 app.get('/api/events', (req, res) => {
   fs.readFile(path.join(__dirname, 'api', 'event.json'), 'utf8', (err, data) => {
     if (err) {
@@ -19,12 +20,41 @@ app.get('/api/events', (req, res) => {
   });
 });
 
+// Endpoint to filter events by 'D' attribute
+app.get('/api/events/search', (req, res) => {
+  const { d } = req.query;
+
+  if (!d) {
+    return res.status(400).json({ error: 'Parameter pencarian "d" harus disediakan' });
+  }
+
+  fs.readFile(path.join(__dirname, 'api', 'event.json'), 'utf8', (err, data) => {
+    if (err) {
+      console.error(err);
+      return res.status(500).send({ error: 'Tidak dapat membaca file event.json' });
+    }
+
+    try {
+      const events = JSON.parse(data);
+      const filteredEvents = events.filter(event =>
+        event.D.toLowerCase().includes(d.toLowerCase())
+      );
+      res.json(filteredEvents);
+    } catch (error) {
+      console.error(error);
+      res.status(500).send({ error: 'Terjadi kesalahan dalam memproses data' });
+    }
+  });
+});
+
+// Default endpoint for other routes
 app.use('/', (req, res) => {
   res.json({
     author: "renn-shiro",
     message: "Welcome to the API",
     routes: {
       events: "/api/events",
+      searchEvents: "/api/events/search?d=depok"
     },
   });
 });
