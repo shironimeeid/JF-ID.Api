@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to Rest API</title>
+  <style>
+    body {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      overflow: hidden; /* Menghindari tampilan luar scroll */
+    }
+
+    body::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-image: url('https://telegra.ph/file/006ffd3bacdb7603b49bf.jpg');
+      background-size: cover;
+      background-position: center;
+      filter: blur(2px); /* Efek blur dengan 5px */
+      z-index: -1; /* Mengatur lapisan belakang */
+    }
+
+    .content {
+      position: relative; /* Memberikan stacking context */
+      background-color: rgba(255, 255, 255, 0.8); /* Warna latar belakang konten */
+      padding: 20px;
+      border-radius: 10px;
+      text-align: center;
+      z-index: 1; /* Mengatur lapisan depan */
+    }
+
+    .glow {
+      color: #00FF00; /* Warna hijau terang */
+      text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #00FF00, 0 0 40px #00FF00, 0 0 50px #00FF00, 0 0 60px #00FF00, 0 0 70px #00FF00, 0 0 80px #00FF00; /* Efek glow */
+      text-align: center;
+    }
+
+    @media only screen and (max-width: 600px) {
+      /* Atur gaya untuk perangkat dengan lebar maksimum 600px */
+      .content {
+        padding: 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="content">
+    <img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Welcome+to+Rest+API" alt="Welcome to Rest API">
+    <p>Author: renn-shiro</p>
+    <p>Routes:</p>
+    <ul>
+      <li><a href="/api/events">/api/events</a></li>
+      <li><a href="/api/events/search?d=depok">/api/events/search?d=depok</a></li>
+    </ul>
+  </div>
+</body>
+</html>
