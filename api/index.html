@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>RennSRC-API</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
     body {
       position: relative;
@@ -46,10 +48,27 @@
       text-align: center;
     }
 
+    .btn-custom {
+      padding: 10px 20px;
+      font-size: 1rem;
+    }
+
     @media only screen and (max-width: 600px) {
       /* Atur gaya untuk perangkat dengan lebar maksimum 600px */
       .content {
         padding: 10px;
+      }
+
+      .btn-custom {
+        padding: 8px 16px;
+        font-size: 0.9rem;
+      }
+    }
+
+    @media only screen and (max-width: 400px) {
+      .btn-custom {
+        padding: 6px 12px;
+        font-size: 0.8rem;
       }
     }
   </style>
@@ -61,20 +80,15 @@
     <p>By renn.ezzcos</p>
     <ul>
       <li><a href="/dashboard.html">API KEY</a></li>
-      <li><a href="https://renn-shiro.vercel.app/">my website</a></li>
     </ul>
+    <button class="btn btn-primary btn-custom mt-3" onclick="window.location.href='https://renn-shiro.vercel.app/'">
+      <i class="fas fa-external-link-alt"></i> My Website
+    </button>
   </div>
 
-  <script>
-    // Pemeriksaan otomatis saat halaman dimuat
-    let loggedIn = true; // Atur ke true jika login berhasil
-
-    if (loggedIn) {
-      document.querySelector('ul li:first-child a').addEventListener('click', function(event) {
-        event.preventDefault();
-        window.location.href = '/dashboard.html'; // Ganti dengan halaman dashboard Anda
-      });
-    }
-  </script>
+  <!-- Bootstrap JS and dependencies -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
