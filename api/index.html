@@ -27,7 +27,7 @@
       background-image: url('https://telegra.ph/file/006ffd3bacdb7603b49bf.jpg');
       background-size: cover;
       background-position: center;
-      filter: blur(2px); /* Efek blur dengan 5px */
+      filter: blur(2px); /* Efek blur dengan 2px */
       z-index: -1; /* Mengatur lapisan belakang */
     }
 
@@ -57,12 +57,22 @@
 <body>
   <div class="content">
     <img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Welcome+to+Rest+API" alt="Welcome to Rest API">
-    <p>Author: renn-shiro</p>
-    <p>Routes:</p>
+    <p>By renn.ezzcos</p>
     <ul>
-      <li><a href="/api/events">/api/events</a></li>
-      <li><a href="/api/events/search?d=depok">/api/events/search?d=depok</a></li>
+      <li><a href="/dashboard.html">API KEY</a></li>
     </ul>
   </div>
+
+  <script>
+    // Pemeriksaan otomatis saat halaman dimuat
+    let loggedIn = true; // Atur ke true jika login berhasil
+
+    if (loggedIn) {
+      document.querySelector('ul li:first-child a').addEventListener('click', function(event) {
+        event.preventDefault();
+        window.location.href = '/dashboard.html'; // Ganti dengan halaman dashboard Anda
+      });
+    }
+  </script>
 </body>
 </html>
