@@ -20,12 +20,12 @@ app.get('/api/events', (req, res) => {
   });
 });
 
-// Endpoint to filter events by 'D' attribute
+// Endpoint to filter events by 'C', 'D', and 'E' attributes
 app.get('/api/events/search', (req, res) => {
-  const { d } = req.query;
+  const { c, d, e } = req.query;
 
-  if (!d) {
-    return res.status(400).json({ error: 'Parameter pencarian "d" harus disediakan' });
+  if (!c && !d && !e) {
+    return res.status(400).json({ error: 'Setidaknya satu parameter pencarian (c, d, e) harus disediakan' });
   }
 
   fs.readFile(path.join(__dirname, 'api', 'event.json'), 'utf8', (err, data) => {
@@ -36,9 +36,24 @@ app.get('/api/events/search', (req, res) => {
 
     try {
       const events = JSON.parse(data);
-      const filteredEvents = events.filter(event =>
-        event.D.toLowerCase().includes(d.toLowerCase())
-      );
+      let filteredEvents = events;
+
+      if (c) {
+        filteredEvents = filteredEvents.filter(event =>
+          event.C && event.C.toLowerCase().includes(c.toLowerCase())
+        );
+      }
+      if (d) {
+        filteredEvents = filteredEvents.filter(event =>
+          event.D && event.D.toLowerCase().includes(d.toLowerCase())
+        );
+      }
+      if (e) {
+        filteredEvents = filteredEvents.filter(event =>
+          event.E && event.E.toLowerCase().includes(e.toLowerCase())
+        );
+      }
+
       res.json(filteredEvents);
     } catch (error) {
       console.error(error);
