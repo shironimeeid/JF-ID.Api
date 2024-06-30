@@ -25,7 +25,7 @@ Rest API JfestChart is a Flask application designed to fetch, filter, and displa
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/RestAPI-JfestChart.git
+    git clone https://github.com/shironimeeid/JFestChart.Api
     ```
 2. Navigate to the project directory:
     ```bash
